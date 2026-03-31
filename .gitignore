@@ -5,3 +5,5 @@ __pycache__/
 build/
 dist/
 .env.example
+build.ps1
+DesktopTelegram.spec
